@@ -1,0 +1,31 @@
+Prompt 1:
+Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
+Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız: 
+HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi ve JavaScript. 
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+HTML, CSS ve Javascript kodlarini ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+Prompt 2:
+İnşaat iş makinaları satışı yapan "ABC İş Makinaları" adlı bir firma için web sitesi ve burada iş makinaları hakkında fotoğraf ve bilgi paylaşmak istiyorum.
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+Sayfamın header bölümünde max-width  %10 olan bir logo olmasını istiyorum ve aynı şekilde bu  max-width  %10 olan logodan bir adette footer bölümünde olmasini istiyorum.
+Sayfanın içeriğinin galeri görünümünde,  3 adet   olmak üzere 200x300 boyutlarında resimler yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Resimlerin üzerine gelindiginde bir geçiş efektine sahip olması güzel bir detay olur.
+Bana bu web sitesini oluşturmada yardımcı olur musun ?
+
+Logo için prompt:
+Bulldozer, excavator, tower crane logo  in the construction site
+
+Buldozer resmi için prompt:
+bulldozer at the construction site
+
+Kule Vinç resmi için prompt:
+tower crane located  in the construction site
+
+Ekskavatör resmi için prompt:
+excavator used in construction site
